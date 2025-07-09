@@ -178,6 +178,21 @@ main > section{
     filter: grayscale(100%);
 }
 
+footer{
+    background-color: rgba(255, 244, 231, 1);
+    max-width: 1440px;
+    margin: 150px auto;
+    border-radius: 8px;
+    
+}
+
+.footer-description{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
 
 
 
@@ -222,6 +237,13 @@ main > section{
         margin: 30px auto;
     }
 
+    footer{
+    
+    margin: 50px auto;
+    
+    
+}
+
   
 }
 
@@ -244,4 +266,10 @@ main > section{
         gap: 100px;
         margin: 30px auto;
     }
+        footer{
+    
+    margin: 50px auto;
+    
+    
+}
 }
